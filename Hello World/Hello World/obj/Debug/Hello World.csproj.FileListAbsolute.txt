@@ -1,0 +1,10 @@
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.Cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Dave\Dropbox\Kayllen\Courses\Intro to VS, WinForms & C#\Projects\Hello World\Hello World\obj\Debug\Hello_World.m_frmHelloWorld.resources
